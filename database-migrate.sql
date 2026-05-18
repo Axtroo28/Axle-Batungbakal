@@ -1,4 +1,4 @@
--- Run this in phpMyAdmin if you already imported an older database.sql
+
 USE job_listing;
 
 CREATE TABLE IF NOT EXISTS users (
